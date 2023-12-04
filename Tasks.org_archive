@@ -1,0 +1,117 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/ken/.emacs.d/OrgFiles/Tasks.org
+
+
+* DONE Merge the PR                                                    :work:
+CLOSED: [2023-07-27 Thu 16:34] DEADLINE: <2020-10-12 Mon>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-27 Thu 16:45
+:ARCHIVE_FILE: ~/.emacs.d/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2023-07-27 Thu 16:34]
+:END:
+
+* CANC ICM meeting
+CLOSED: [2023-07-28 Fri 18:25] SCHEDULED: <2023-07-28 Fri 15:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-30 Sun 16:49
+:ARCHIVE_FILE: ~/Projects/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: CANC
+:END:
+:LOGBOOK:
+- State "CANC"       from              [2023-07-28 Fri 18:25] \\
+  I'm getting old. I remember in the mornng, but by after lunch it was forgotten.
+:END:
+
+
+* COMPLETED Add a key to get org-agenda in emacs
+CLOSED: [2023-07-28 Fri 18:27] DEADLINE: <2023-07-28 Fri> SCHEDULED: <2023-07-27 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-30 Sun 16:51
+:ARCHIVE_FILE: ~/Projects/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: COMPLETED
+:END:
+
+* CANC Get mu4e to work properly
+CLOSED: [2023-07-31 Mon 12:11] DEADLINE: <2023-08-01 Tue>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-02 Wed 09:43
+:ARCHIVE_FILE: d:/Projects/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: CANC
+:END:
+:LOGBOOK:
+- State "CANC"       from "ACTIVE"     [2023-07-31 Mon 12:11] \\
+  This I cancelled. Couldn't figure out how to get mu4e to work.
+:END:
+
+
+* DONE Finish my blog setup
+CLOSED: [2023-08-02 Wed 06:35] DEADLINE: <2023-08-05 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-02 Wed 09:57
+:ARCHIVE_FILE: d:/Projects/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "ACTIVE"     [2023-08-02 Wed 06:35]
+:END:
+
+* DONE Prayer Meeting Devotion
+CLOSED: [2023-08-28 Mon 13:24] SCHEDULED: <2023-08-23 Wed 19:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-08 Sun 12:24
+:ARCHIVE_FILE: d:/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-28 Mon 13:24]
+:END:
+
+* Sermon Schedule
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-08 Sun 12:25
+:ARCHIVE_FILE: d:/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:END:
+** DONE <2023-08-06 Sun> Sermon - Todd
+CLOSED: [2023-08-06 Sun 14:13]
+:LOGBOOK:
+- State "DONE"       from              [2023-08-06 Sun 14:13]
+:END:
+** <2023-08-13 Sun> Sermon - Todd
+** DONE Sermon - Daisy <2023-08-20 Sun>
+CLOSED: [2023-08-20 Sun 12:49]
+:LOGBOOK:
+- State "DONE"       from              [2023-08-20 Sun 12:49]
+:END:
+** Sermon - Daisy <2023-08-27 Sun>
+
+* DONE Write Blog post
+CLOSED: [2023-08-05 Sat 06:52] SCHEDULED: <2023-08-03 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-08 Sun 12:25
+:ARCHIVE_FILE: d:/OrgFiles/Tasks.org
+:ARCHIVE_OLPATH: Active
+:ARCHIVE_CATEGORY: Tasks
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-05 Sat 06:52]
+:END:

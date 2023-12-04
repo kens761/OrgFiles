@@ -1,0 +1,92 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file d:/Projects/OrgFiles/Meetings.org
+
+
+* CANC ICM meeting
+CLOSED: [2023-08-12 Sat 08:44] SCHEDULED: <2023-08-11 Fri 1300>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-02 Sat 08:17
+:ARCHIVE_FILE: d:/Projects/OrgFiles/Meetings.org
+:ARCHIVE_OLPATH: Meetings
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: CANC
+:END:
+:LOGBOOK:
+- State "CANC"       from "TODO"       [2023-08-12 Sat 08:44] \\
+  Cancelled by Todd
+:END:
+
+* TODO Bible Study
+SCHEDULED: <2023-10-12 Thu 08:30 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-05 Thu 10:59]
+:ARCHIVE_TIME: 2023-10-08 Sun 12:23
+:ARCHIVE_FILE: d:/OrgFiles/Meetings.org
+:ARCHIVE_OLPATH: Meetings
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: TODO
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-05 Thu 10:59]
+- State "DONE"       from "TODO"       [2023-09-29 Fri 07:10]
+- State "DONE"       from "TODO"       [2023-09-23 Sat 09:23]
+- State "DONE"       from "TODO"       [2023-09-14 Thu 12:22]
+- State "DONE"       from "TODO"       [2023-09-08 Fri 10:21]
+:END:
+
+* TODO Bible Study
+SCHEDULED: <2023-10-11 Wed 16:00 +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-05 Thu 10:59]
+:ARCHIVE_TIME: 2023-10-08 Sun 12:23
+:ARCHIVE_FILE: d:/OrgFiles/Meetings.org
+:ARCHIVE_OLPATH: Meetings
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: TODO
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-05 Thu 10:59]
+- State "DONE"       from "TODO"       [2023-09-28 Thu 07:11]
+- State "DONE"       from "TODO"       [2023-09-23 Sat 09:23]
+:END:
+
+* DONE Bible Study
+CLOSED: [2023-11-05 Sun 15:38] SCHEDULED: <2023-11-02 Thu 08:30 1w>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-18 Sat 08:14
+:ARCHIVE_FILE: d:/OrgFiles/Meetings.org
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-05 Sun 15:38]
+:END:
+
+* CANC Elder's Meeting
+CLOSED: [2023-11-20 Mon 08:39] SCHEDULED: <2023-11-18 Sat 15:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-20 Mon 08:44
+:ARCHIVE_FILE: d:/OrgFiles/Meetings.org
+:ARCHIVE_OLPATH: Meetings
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: CANC
+:END:
+:LOGBOOK:
+- State "CANC"       from "TODO"       [2023-11-20 Mon 08:39] \\
+  Waiting for Daisy and Joel
+:END:
+
+* DONE Dawn Watch
+CLOSED: [2023-11-28 Tue 07:35] SCHEDULED: <2023-11-28 Tue 05:00 1w>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-05 Tue 07:26
+:ARCHIVE_FILE: d:/OrgFiles/Meetings.org
+:ARCHIVE_OLPATH: Meetings
+:ARCHIVE_CATEGORY: Meetings
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-28 Tue 07:35]
+:END:

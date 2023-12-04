@@ -1,0 +1,13 @@
+#+Startup: overview
+
+* Habits
+** TODO Get Hair cut
+:PROPERTIES:
+:LAST_REPEAT: [2023-10-29 Sun 13:20]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-29 Sun 13:20]
+- State "DONE"       from "TODO"       [2023-10-29 Sun 13:19]
+- State "DONE"       from "TODO"       [2023-08-03 Thu 12:46]
+:END:
+<2023-11-01 Wed +1m>

@@ -1,0 +1,25 @@
+#+TITLE: Birthdays.org
+#+AUTHOR: Ken Stevens
+#+STARTUP: overview
+
+* Holidays
+
+%%(org-calendar-holiday)
+* Birthdays and Anniversarys
+
+%%(org-anniversary 1931 10 13) Dad would have been %d years old
+%%(org-anniversary 2020 11 26) Mom's %d annivesary of her death
+%%(org-anniversary 2020 04 20) Dad's %d anniversary of his death
+%%(org-anniversary 1957 04 21) Cheryl is %d years old
+%%(org-anniversary 2005 07 03) Roma is %d years old
+%%(org-anniversary 2009 06 10) Ashley is %d years old
+%%(org-anniversary 2004 09 13) Tintin is %d years old
+%%(org-anniversary 1932 07 09) Mom would have been %d years old
+%%(org-anniversary 1953 07 09) Art is %d years old
+%%(org-anniversary 1967 07 15) Julie is %d years old
+%%(org-anniversary 1978 08 13) Ben is %d years old 
+%%(org-anniversary 1960 09 19) Freddie Aling is %d years old
+%%(org-anniversary 1976 06 16) Kim is %d years old
+%%(org-anniversary 1978 10 12) Ben is %d years old
+%%(org-anniversary 1953 12 03) Ken is %d years old
+
