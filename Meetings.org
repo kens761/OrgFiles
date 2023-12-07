@@ -1,11 +1,12 @@
 #+Startup: overview
 *  Meetings
 ** TODO Prayer meeting
-SCHEDULED: <2023-12-06 Wed 19:00 +1w>
+SCHEDULED: <2023-12-13 Wed 19:00 +1w>
 :PROPERTIES:
-:LAST_REPEAT: [2023-11-30 Thu 08:37]
+:LAST_REPEAT: [2023-12-07 Thu 08:45]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2023-12-07 Thu 08:45]
 - State "DONE"       from "TODO"       [2023-11-30 Thu 08:37]
 - State "DONE"       from "TODO"       [2023-11-23 Thu 07:57]
 - State "DONE"       from "TODO"       [2023-11-17 Fri 08:25]
